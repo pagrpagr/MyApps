@@ -20,7 +20,7 @@ The apps I use everyday.
 
 [Obscura](https://obscura.camera/obscura/index.html) - Pro camera app
 
-[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Amazing free video editing and colour grading app (Mac, iPad)
+[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Amazing free video editing and colour grading app
 
 [Logic Pro](https://www.apple.com/au/logic-pro/) - Audio Editor
 
@@ -30,9 +30,9 @@ The apps I use everyday.
 
 
 ### Media Consumption
-[Overcast](https://overcast.fm/) - Podcast app (iPhone, iPad, Web)
+[Overcast](https://overcast.fm/) - Podcast app
 
-[Reeder](https://www.reederapp.com/) - RSS Reader (iPhone, iPad, Mac)
+[Reeder](https://www.reederapp.com/) - RSS Reader
 
 [Radiant](https://radiant.social/) - iOS Mastodon client
 
@@ -45,6 +45,6 @@ The apps I use everyday.
 
 [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066) - Hide menu bar items
 
-[AlDente](https://apphousekitchen.com/) - Battery charge limiter (Mac)
+[AlDente](https://apphousekitchen.com/) - Battery charge limiter
 
 [AppCleaner](https://freemacsoft.net/appcleaner/) - Properly delete apps
