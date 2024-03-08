@@ -8,6 +8,8 @@ The apps I use everyday.
 #### Browser Extensions
 [uBlock Origin](https://ublockorigin.com/) - My preferred Ad/Content blocker
 
+[Raindrop.io](https://raindrop.io/) - Bookmark manager
+
 [UnTrap for YouTube](https://untrap.app/) - Overhaul YouTube UI
 
 [Dark Reader](https://darkreader.org/) - Dark mode for every website
