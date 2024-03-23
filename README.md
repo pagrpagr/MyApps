@@ -3,7 +3,7 @@ The apps I use everyday.
 ### Browsers
 [Arc](https://arc.net/) - My desktop browser
 
-[Orion](https://browser.kagi.com/) - My mobile browser
+[DuckDuckGo](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361?platform=iphone) - My mobile browser
 
 #### Browser Extensions
 [uBlock Origin](https://ublockorigin.com/) - My preferred Ad/Content blocker
