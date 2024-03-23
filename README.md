@@ -6,7 +6,7 @@ The apps I use everyday.
 [DuckDuckGo](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361?platform=iphone) - My mobile browser
 
 #### Browser Extensions
-[uBlock Origin](https://ublockorigin.com/) - My preferred Ad/Content blocker
+[uBlock Origin](https://ublockorigin.com/) - Ad/Content blocker
 
 [Raindrop.io](https://raindrop.io/) - Bookmark manager
 
@@ -15,6 +15,8 @@ The apps I use everyday.
 [Dark Reader](https://darkreader.org/) - Dark mode for every website
 
 [Bitwarden](https://bitwarden.com/) - Password Manager
+
+[Violentmonkey](https://violentmonkey.github.io/) - Userscript manager
 
 ### Productivity Tools
 
@@ -28,7 +30,7 @@ The apps I use everyday.
 
 [Hi Sticky](https://apps.apple.com/us/app/hi-sticky-notes-se-widget/id1610634186) - Sticky notes that sync with iCloud
 
-[CotEditor](https://coteditor.com/) - Plain Text Editor
+[Zed](https://zed.dev/) - Text/Code Editor
 
 
 ### Media Consumption
