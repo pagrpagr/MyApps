@@ -1,9 +1,9 @@
 # MyApps
 The apps I use everyday.
 ### Browsers
-[Arc](https://arc.net/) - My desktop browser
+[Arc](https://arc.net/gift/d4b2960) - My desktop and mobile browser
 
-[DuckDuckGo](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361?platform=iphone) - My mobile browser
+[DuckDuckGo](https://duckduckgo.com/) - My search engine
 
 #### Browser Extensions
 [uBlock Origin](https://ublockorigin.com/) - Ad/Content blocker
